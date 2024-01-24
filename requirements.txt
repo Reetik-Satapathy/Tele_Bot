@@ -1,0 +1,7 @@
+python-telegram-bot
+google-generativeai
+SpeechRecognition
+PyAudio
+wget
+pydub
+ffmpeg-python
